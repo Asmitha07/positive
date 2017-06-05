@@ -12,6 +12,7 @@ class Fac
      {
          for(i=1;i<=a;i++)
          fact=fact*i;
+         
      }
      System.out.println(fact);
     }
