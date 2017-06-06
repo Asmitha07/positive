@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-class Revnum
+class revnum
 {
     public static void main(String args[])
     {
